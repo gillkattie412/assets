@@ -1,0 +1,11 @@
+{
+    "name": "GGPT",
+    "type": "BEP20",
+    "symbol": "GGPT",
+    "decimals": 18,
+    "website": "https://www.milktoken.net/",
+    "description": "The GGPT Token",
+    "explorer": "https://bscscan.com/token/0x7523ab254db031f5aa867a649262b8506d268d15",
+    "status": "active",
+    "id": "0x7523ab254db031f5aa867a649262b8506d268d15"
+}
